@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "stufftotestwith",
+	"version": "${version}",
+	"name": "StuffToTestWith",
+	"description": "This is a project for creating my first Fabric Minecraft mod!",
+	"authors": [
+		"OptionalPoop"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/stufftotestwith/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.optionalpoop.stufftotestwith.StuffToTestWith"
+		],
+		"client": [
+			"net.optionalpoop.stufftotestwith.StuffToTestWithClient"
+		],
+		"fabric-datagen": [
+			"net.optionalpoop.stufftotestwith.StuffToTestWithDataGenerator"
+		]
+	},
+	"mixins": [
+		"stufftotestwith.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
