@@ -1,6 +1,7 @@
 {
-    "item.stufftotestwith.ruby": "Ruby",
-    "item.stufftotestwith.sonic": "Sonic",
+  "item.stufftotestwith.ruby": "Ruby",
+  "item.stufftotestwith.sonic": "Sonic",
+  "item.stufftotestwith.sigma_mode_activated": "SIGMA MODE ACTIVATED ! ! ! ! !",
 
-    "itemgroup.ruby": "Ruby Tutorial Group"
+  "itemgroup.ruby": "Ruby Tutorial Group"
 }
