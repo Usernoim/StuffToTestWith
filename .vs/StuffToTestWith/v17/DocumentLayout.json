@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\src\\main\\resources\\assets\\stufftotestwith\\models\\item\\sigmaMode.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\resources\\assets\\stufftotestwith\\models\\item\\sigmaMode.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\build.gradle||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build.gradle||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItems.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItems.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\src\\main\\resources\\assets\\stufftotestwith\\models\\item\\sigmaMode.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\resources\\assets\\stufftotestwith\\models\\item\\sigmaMode.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItemGroups.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "build.gradle",
               "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\build.gradle",
               "RelativeDocumentMoniker": "build.gradle",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "gradlew",
               "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\gradlew",
               "RelativeDocumentMoniker": "gradlew",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "gradlew",
               "ViewState": "AQIAAEYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-09T23:46:53.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T23:46:53.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "sigmaMode.json",
               "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\src\\main\\resources\\assets\\stufftotestwith\\models\\item\\sigmaMode.json",
               "RelativeDocumentMoniker": "src\\main\\resources\\assets\\stufftotestwith\\models\\item\\sigmaMode.json",
@@ -81,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "en_us.json",
               "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\src\\main\\resources\\assets\\stufftotestwith\\lang\\en_us.json",
               "RelativeDocumentMoniker": "src\\main\\resources\\assets\\stufftotestwith\\lang\\en_us.json",
@@ -89,12 +88,11 @@
               "RelativeToolTip": "src\\main\\resources\\assets\\stufftotestwith\\lang\\en_us.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-09T23:42:16.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T23:42:16.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ModItems.java",
               "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\StuffToTestWith\\src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItems.java",
               "RelativeDocumentMoniker": "src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItems.java",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItems.java",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
-              "WhenOpened": "2024-09-09T23:41:06.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T23:41:06.373Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItemGroups.java",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
-              "WhenOpened": "2024-09-09T23:41:04.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T23:41:04.765Z"
             },
             {
               "$type": "Document",
@@ -128,8 +124,7 @@
               "RelativeToolTip": "src\\main\\java\\net\\optionalpoop\\stufftotestwith\\StuffToTestWith.java",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
-              "WhenOpened": "2024-09-09T23:40:53.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T23:40:53.185Z"
             }
           ]
         }
